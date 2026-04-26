@@ -1,0 +1,18 @@
+{
+  "header": {
+    "version": "1.0",
+    "project_id": "20260424PYCL",
+    "transmission_id": "TXN_20260425_001"
+  },
+  "payload": {
+    "entry_hash": "a8f3c1d9b2...",
+    "parent_hash": "0000000000...",
+    "ktii_strength": -4.2,
+    "tier_class": "Tier-3-C",
+    "encrypted_content": "U2FsdGVkX19..."
+  },
+  "signature": {
+    "author_did": "did:pycl:user_alpha",
+    "digital_sig": "SIG_ED25519_..."
+  }
+}
