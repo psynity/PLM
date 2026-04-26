@@ -1,0 +1,6 @@
+project:
+  id: "20260424PYCL"
+  author: "User_Alpha"
+storage:
+  path: "./notes/"
+  format: "md"
