@@ -1,0 +1,14 @@
+# config.yaml 예시
+researcher:
+  user_id: "Alpha_Research_Leader"
+  affiliation: "Global Research Lab"
+  research_code: "20260424PYCL"
+
+backup:
+  mode: "AUTO"  # AUTO: 전체 백업, SELECT: 사용자 선택 백업
+  format: "MARKDOWN"  # PDF, MARKDOWN, JSON 지원
+  local_path: "./research_notes/"
+
+security:
+  hash_algorithm: "SHA-256"
+  encryption: "AES-256" # 필요한 경우 로컬 저장 데이터 암호화
